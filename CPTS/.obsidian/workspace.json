@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "4cbefd1e999306af",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f9da873de2b282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bba330971669eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Getting Started/02. Services Sanning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02. Services Sanning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f51c2aaf8de0ecc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "363fa012bfc843cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "217a4351c48bc3ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2c58a97a60bd84b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a8cb840a32e2e18a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83a2c7fee00a3ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "52f366d6bb687020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9991f552e69526",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02.Getting Started/02. Services Sanning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 02. Services Sanning"
+            }
+          },
+          {
+            "id": "e51e785c2f7e8527",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02.Getting Started/Basic Tools.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Basic Tools"
+            }
+          },
+          {
+            "id": "717b6c620f8a66b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "24cf68a33d49e738",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02.Getting Started/Basic Tools.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Basic Tools"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6bba330971669eba",
+  "lastOpenFiles": [
+    "02.Getting Started/img/20250309221949.png",
+    "02.Getting Started/02. Services Sanning.md",
+    "02.Getting Started/01. Basic Tools.md",
+    "02.Getting Started/img/20250309172721.png",
+    "02.Getting Started/img/20250309215401.png",
+    "02.Getting Started/img/20250309215330.png",
+    "02.Getting Started/img/20250309215046.png",
+    "02.Getting Started/img/20250309205929.png",
+    "02.Getting Started/img/20250309183750.png",
+    "02.Getting Started/img/20250309180609.png",
+    "02.Getting Started/img",
+    "Bienvenido.md",
+    "02.Getting Started",
+    "01.Penetration Testing Process"
+  ]
+}
