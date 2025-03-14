@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Getting Started/02. Services Scanning.md",
+                "file": "02.Getting Started/03. Web Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 02. Services Scanning"
+              "title": "Enlaces entrantes de 03. Web Enumeration"
             }
           },
           {
@@ -170,18 +170,20 @@
   },
   "active": "d3e7776526e33743",
   "lastOpenFiles": [
-    "02.Getting Started/img/20250309180609.png",
+    "Pasted image 20250313224452.png",
+    "Pasted image 20250313223949.png",
+    "Pasted image 20250313223507.png",
+    "Pasted image 20250313223113.png",
+    "Pasted image 20250313223110.png",
+    "Pasted image 20250313223043.png",
+    "Pasted image 20250313223036.png",
+    "Pasted image 20250313222927.png",
+    "02.Getting Started/img/Pasted image 20250313220448.png",
     "02.Getting Started/03. Web Enumeration.md",
+    "02.Getting Started/img/20250309180609.png",
     "02.Getting Started/img/20250313212859.png",
     "02.Getting Started/02. Services Scanning.md",
-    "02.Getting Started/img/20250309221949.png",
     "02.Getting Started/01. Basic Tools.md",
-    "02.Getting Started/img/20250309172721.png",
-    "02.Getting Started/img/20250309215401.png",
-    "02.Getting Started/img/20250309215330.png",
-    "02.Getting Started/img/20250309215046.png",
-    "02.Getting Started/img/20250309205929.png",
-    "02.Getting Started/img/20250309183750.png",
     "02.Getting Started/img",
     "Bienvenido.md",
     "02.Getting Started",
